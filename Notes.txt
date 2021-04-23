@@ -1,1 +1,3 @@
 Notes for project:
+- Engine plan:
+pick N movies based on genres, actors etc and then popularity and IMDB rating, year 
